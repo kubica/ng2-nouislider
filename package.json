@@ -2,8 +2,8 @@
   "name": "ng2-nouislider",
   "version": "1.6.1",
   "description": "Angular2 noUiSlider component",
-  "main": "src/nouislider.js",
-  "typings": "src/nouislider.d.ts",
+  "main": "src/ng2-nouislider.js",
+  "typings": "src/ng2-nouislider.d.ts",
   "scripts": {
     "lint": "tslint src/nouislider.ts",
     "build": "typings install && npm run lint && ngc",
